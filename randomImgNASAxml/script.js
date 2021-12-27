@@ -3,7 +3,7 @@
 // API DATA
 const req = new XMLHttpRequest();
 const url = 'https://api.nasa.gov/planetary/apod?api_key='
-const apiKey = 'DPKUZxs9bcV2gyDanj8mR6yBiVsySYOd679UhIgh'
+const apiKey = config.apiKey;
 
 // HTML Selectors
 
