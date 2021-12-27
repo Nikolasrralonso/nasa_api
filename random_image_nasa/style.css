@@ -1,0 +1,27 @@
+#container {
+    margin: 20px;
+    border: 1px solid black;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding:1em;
+}
+
+#title {
+    margin:0px auto;
+}
+
+#date {
+    margin: 1em auto;
+}
+
+#description {
+    margin:1em auto;
+    width: 600px
+}
+
+#image {
+    width: 650px;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
